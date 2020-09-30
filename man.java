@@ -12,7 +12,7 @@ public class sortarray {
             return false;
         }
         
-     
+     //cahl lodu
     }
     return true;
     }
